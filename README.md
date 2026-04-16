@@ -43,7 +43,7 @@
 
 ### 📫 Connect With Me
 
-* 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+* 📧 Email: [abdullohmmuttaqin.09@gmail.com](mailto:your-email@example.com)
 * 💬 Always open to learn, collaborate, and grow together
 
 ---
