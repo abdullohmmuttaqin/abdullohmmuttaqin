@@ -6,30 +6,3 @@
 <div style="text-align:justify;text-justify:inter-word">
 Hey! I'm <b>Abdulloh Muhammad Muttqin</b>. Currently studying Informatic Engineering at Nahdlatul Ulama Al Ghazali University. I really curious about building the modern web apps.
 </div>
-<br>
-<h1 align="left">Current Tech Stack</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,bun,nodejs,ts,js" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vscode,gcp,aws,obsidian" />
-  </a>
-</p>
-<h1>Current Stats</h1>
-<p align ="center">
- <img src="https://github-readme-stats-fast.vercel.app/api?username=wayanpratama38&show_icons=true&theme=tokyonight" alt="wynprtm's GitHub Stats" />
- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wayanpratama38&show_icons=true&theme=tokyonight" height="195" alt="wynprtm's GitHub Stats" />
-  
-</p>
-<br/>
-
-<h1>Project</h1>
-<div align="center">
-
-| Archive  | Current |
-| :-: | :----: |
-|  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=Belajar-Fundamental-Aplikasi-Web-Dengan-React&theme=tokyonight" alt="wynprtm's repo"/>  |  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=POS-Project&theme=tokyonight" alt="wynprtm's repo"/>   |
-|  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=dicoding-android-expert&theme=tokyonight" alt="wynprtm's repo"/>  |    |
-|  <img src="https://github.com/abdullohmmuttaqin/avanti-merch-dashboard"/>  |   |
-
-</div>
