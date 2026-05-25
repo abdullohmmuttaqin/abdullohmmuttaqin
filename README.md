@@ -30,6 +30,6 @@ Hey! I'm <b>Abdulloh Muhammad Muttqin</b>. Currently studying Informatic Enginee
 | :-: | :----: |
 |  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=Belajar-Fundamental-Aplikasi-Web-Dengan-React&theme=tokyonight" alt="wynprtm's repo"/>  |  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=POS-Project&theme=tokyonight" alt="wynprtm's repo"/>   |
 |  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=dicoding-android-expert&theme=tokyonight" alt="wynprtm's repo"/>  |    |
-|  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=Belajar-Fundamental-Backend-Dengan-Javascript&theme=tokyonight" alt="wynprtm's repo"/>  |   |
+|  <img src="https://github.com/abdullohmmuttaqin/avanti-merch-dashboard"/>  |   |
 
 </div>
