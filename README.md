@@ -1,53 +1,54 @@
-<h1 align="center">Hi there 👋, I'm Abdulloh Muhammad Muttaqin</h1>
+<h1 align="center">Abdulloh Muhammad Muttaqin</h1>
 
 <p align="center">
-  <i>Final-year Informatics Student | Future Software Developer 🚀</i>
+  Informatics Student • Python Developer • Software Enthusiast
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## About Me
 
-* 🎓 Informatics student at Universitas Nahdlatul Ulama Al Ghazali Cilacap
-* 💡 Interested in software development and problem solving
-* 🛠️ Love building projects and learning by doing
-* 🚀 Currently improving my skills step by step
+Final-year Informatics student with an interest in software development, problem solving, and building real projects while learning step by step.
 
----
+Currently exploring:
 
-### 🌱 Currently Learning
-
-* Python (GUI & automation)
-* Git & GitHub
-* Web Development (HTML, CSS, JavaScript soon...)
+- Python
+- Web Development
+- Git & GitHub
+- UI Design
 
 ---
 
-### 🧰 Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
+## Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullohmmuttaqin&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,mysql" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+## GitHub Stats
 
-* 📧 Email: [abdullohmmuttaqin.09@gmail.com](mailto:your-email@example.com)
-* 💬 Always open to learn, collaborate, and grow together
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullohmmuttaqin&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
+## Activity Graph
 
-> “I don’t just learn code — I build things with it.” 🚀
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullohmmuttaqin&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Philosophy
+
+```python
+while alive:
+    learn()
+    build()
+    improve()
