@@ -4,7 +4,7 @@
 </a>
 
 <div style="text-align:justify;text-justify:inter-word">
-Hey! I'm <b>I Wayan Satya Widhya Putra Pratama</b>. Currently studying Informatic Engineering at Tanjungpura University. I really curious about building the modern web apps.
+Hey! I'm <b>Abdulloh Muhammad Muttqin</b>. Currently studying Informatic Engineering at Nahdlatul Ulama Al Ghazali University. I really curious about building the modern web apps.
 </div>
 <br>
 <h1 align="left">Current Tech Stack</h1>
