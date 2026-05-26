@@ -4,5 +4,5 @@
 </a>
 
 <div style="text-align:justify;text-justify:inter-word">
-Hey! I'm <b>Abdulloh Muhammad Muttqin</b>. Currently studying Informatic Engineering at Nahdlatul Ulama Al Ghazali University.
+Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatic Engineering at Nahdlatul Ulama Al Ghazali University.
 </div>
