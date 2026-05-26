@@ -7,7 +7,6 @@
 Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engineering and interested in software development, UI design, and building random projects. I'm a student at Nahdlatul Ulama Al Ghazali University.
 </div>
 
-<br>
 <h1 align="left">Current Tech Stack</h1>
 <p align="center">
   <a href="https://skillicons.dev">
