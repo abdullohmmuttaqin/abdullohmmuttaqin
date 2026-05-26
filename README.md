@@ -6,9 +6,11 @@
   width="350"
 />
 
-<div style="text-align:justify;text-justify:inter-word">
-Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engineering and interested in software development, UI design, and building random projects. I'm a student at Nahdlatul Ulama Al Ghazali University.
-</div>
+Hi, I'm **Abdulloh Muhammad Muttaqin**.
+
+<br><br><br>
+
+Currently studying Informatics Engineering and interested in software development, UI design, and building random projects. I'm a student at Nahdlatul Ulama Al Ghazali University.
 
 <br>
 <h1 align="left">Current Tech Stack</h1>
