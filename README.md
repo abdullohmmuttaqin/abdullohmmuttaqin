@@ -14,3 +14,9 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatic Engine
     <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode,idea,arduino,figma" />
   </a>
 </p>
+
+<h1>Current Stats</h1>
+<p align ="center">
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=wayanpratama38&show_icons=true&theme=tokyonight" alt="wynprtm's GitHub Stats" />
+ <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wayanpratama38&show_icons=true&theme=tokyonight" height="195" alt="wynprtm's GitHub Stats" />
+</p>
