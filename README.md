@@ -6,3 +6,13 @@
 <div style="text-align:justify;text-justify:inter-word">
 Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatic Engineering at Nahdlatul Ulama Al Ghazali University.
 </div>
+
+<br>
+<h1 align="left">Current Tech Stack</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bun,nodejs,ts,js" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,vscode,gcp,aws,obsidian" />
+  </a>
+</p>
