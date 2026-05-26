@@ -13,6 +13,6 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatic Engine
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github" />
     <br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=figma,canva" />
   </a>
 </p>
