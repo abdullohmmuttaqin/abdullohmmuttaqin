@@ -23,5 +23,5 @@ Currently studying Informatics Engineering and interested in software developmen
 <h1>Current Stats</h1>
 <p align ="center">
  <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=radical" alt="abdullohmmuttaqin's GitHub Stats" />
- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=radical" height="195" alt="abdullohmmuttaqin's GitHub Stats" />
+ <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=tokyonight" height="195" alt="abdullohmmuttaqin's GitHub Stats" />
 </p>
