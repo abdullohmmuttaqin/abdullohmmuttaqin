@@ -25,7 +25,7 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 | Archive  | Current |
 | :-: | :----: |
-|  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=Belajar-Fundamental-Aplikasi-Web-Dengan-React&theme=tokyonight" alt="wynprtm's repo"/>  |  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=POS-Project&theme=tokyonight" alt="wynprtm's repo"/>   |
+|  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=Avanti-Merch&theme=tokyonight" alt="wynprtm's repo"/>  |  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=POS-Project&theme=tokyonight" alt="wynprtm's repo"/>   |
 |  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=dicoding-android-expert&theme=tokyonight" alt="wynprtm's repo"/>  |    |
 |  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=wayanpratama38&repo=Belajar-Fundamental-Backend-Dengan-Javascript&theme=tokyonight" alt="wynprtm's repo"/>  |   |
 
