@@ -10,7 +10,7 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 <h1 align="left">Current Tech Stack</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode,idea,arduino,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode,idea,arduino,wordpress,figma" />
   </a>
 </p>
 
