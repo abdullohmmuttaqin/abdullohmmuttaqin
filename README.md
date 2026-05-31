@@ -24,10 +24,10 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 <h1>Project</h1>
 <div align="center">
 
-| Archive  | Current |
+| Archive | Current |
 | :-: | :----: |
-|  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=Avanti-Merch&theme=tokyonight" alt="abdullohmmuttaqin's repo"/>  |  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=avanti-merch-dashboard&theme=tokyonight" alt="abdullohmmuttaqin's repo"/>   |    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=tokyonight" alt="abdullohmmuttaqin's repo"/>
-|  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=knn-citra&theme=tokyonight" alt="abdullohmmuttaqin's repo"/>  |    |
-|  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=pengolahan-citra-PTM-2-python&theme=tokyonight" alt="abdullohmmuttaqin's repo"/>  |   |
+| <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=Avanti-Merch&theme=tokyonight" alt="abdullohmmuttaqin's repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=avanti-merch-dashboard&theme=tokyonight" alt="abdullohmmuttaqin's repo"/> |
+| <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=knn-citra&theme=tokyonight" alt="abdullohmmuttaqin's repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=tokyonight" alt="abdullohmmuttaqin's repo"/> |
+| <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=pengolahan-citra-PTM-2-python&theme=tokyonight" alt="abdullohmmuttaqin's repo"/> | |
 
 </div>
