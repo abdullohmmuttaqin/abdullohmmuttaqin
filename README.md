@@ -31,3 +31,6 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=pengolahan-citra-PTM-2-python&theme=tokyonight" alt="abdullohmmuttaqin's repo"/> | |
 
 </div>
+
+<h1>My Favorite Playlist while Coding</h1>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0GK8t0rK03tYyPoueiTcfK?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
