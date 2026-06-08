@@ -33,6 +33,5 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 </div>
 
 <h1>My Favorite Playlist while Coding</h1>
-## 🎵 My Favorite Playlist while Coding
 
-[![Spotify Playlist](https://img.shields.io/badge/Open%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/0GK8t0rK03tYyP0ueiTcFK)
+[![Spotify Playlist](https://img.shields.io/badge/Open%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/0GK8t0rK03tYyPoueiTcfK?si=2980f297e53f47b5)
