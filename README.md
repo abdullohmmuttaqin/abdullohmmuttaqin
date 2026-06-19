@@ -24,7 +24,7 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 <h2>Project</h2>
 <div align="center">
 
-| Archive | Current |
+| Latest Explorations | Work In Progress (WIP) |
 | :-: | :----: |
 | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=Avanti-Merch&theme=tokyonight" alt="abdullohmmuttaqin's repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=avanti-merch-dashboard&theme=tokyonight" alt="abdullohmmuttaqin's repo"/> |
 | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=knn-citra&theme=tokyonight" alt="abdullohmmuttaqin's repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=tokyonight" alt="abdullohmmuttaqin's repo"/> |
