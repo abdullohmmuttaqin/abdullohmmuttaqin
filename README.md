@@ -21,7 +21,7 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=tokyonight" height="195" alt="abdullohmmuttaqin's GitHub Stats" />
 </p>
 
-<h1>Project</h1>
+<h2>Project</h2>
 <div align="center">
 
 | Archive | Current |
@@ -32,6 +32,6 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 </div>
 
-<h1>My Favorite Playlist while Coding</h1>
+<h2>My Favorite Playlist while Coding</h2>
 
 [![Spotify Playlist](https://img.shields.io/badge/Open%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/3bs4CAzbp9Zp4p7AXVEVzm?si=f2c3f5e7e64045f6)
