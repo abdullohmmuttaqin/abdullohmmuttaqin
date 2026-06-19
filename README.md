@@ -10,20 +10,20 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 <br>
 
-<h2 align="center">Current Tech Stack</h2>
+<h2>Current Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,opencv,cpp,powershell,git,github,vscode,netlify,idea,arduino,wordpress,figma" alt="My Tech Stack" />
   </a>
 </p>
 
-<h2 align="center">Current Stats</h2>
+<h2>Current Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=tokyonight" alt="abdullohmmuttaqin's GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=tokyonight" height="195" alt="abdullohmmuttaqin's Top Languages" />
 </p>
 
-<h2 align="center">Projects & Explorations</h2>
+<h2>Projects & Explorations</h2>
 <div align="center">
 
 | Latest Explorations | Work In Progress (WIP) |
@@ -34,7 +34,7 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 </div>
 
-<h2 align="center">My Favorite Playlist while Coding</h2>
+<h2>My Favorite Playlist while Coding</h2>
 <p align="center">
   <a href="TEKS_INI_DIGANTI_DENGAN_LINK_SHARE_PLAYLIST_SPOTIFY_KAMU" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify" alt="Spotify Playlist" />
