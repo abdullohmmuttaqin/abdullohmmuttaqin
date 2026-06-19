@@ -36,7 +36,7 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 <h2>My Favorite Playlist while Coding</h2>
 <p align="center">
-  <a href="TEKS_INI_DIGANTI_DENGAN_LINK_SHARE_PLAYLIST_SPOTIFY_KAMU" target="_blank">
+  <a href="https://open.spotify.com/playlist/3bs4CAzbp9Zp4p7AXVEVzm?si=0176631c373c4d3e" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify" alt="Spotify Playlist" />
   </a>
 </p>
