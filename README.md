@@ -17,8 +17,8 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 <h1>Current Stats</h1>
 <p align ="center">
- <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=radical" alt="abdullohmmuttaqin's GitHub Stats" />
- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=radical" height="195" alt="abdullohmmuttaqin's GitHub Stats" />
+ <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=merko" alt="abdullohmmuttaqin's GitHub Stats" />
+ <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=merko" height="195" alt="abdullohmmuttaqin's GitHub Stats" />
 </p>
 
 <h1>Project</h1>
