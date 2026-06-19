@@ -19,7 +19,7 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 <h2>Current Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=synthwave" alt="abdullohmmuttaqin's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=highcontrast" alt="abdullohmmuttaqin's GitHub Stats" />
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=tokyonight" height="195" alt="abdullohmmuttaqin's Top Languages" />
 </p>
 
