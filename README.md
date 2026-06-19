@@ -19,8 +19,8 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 <h2>Current Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=dracula" alt="abdullohmmuttaqin's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=tokyonight" height="195" alt="abdullohmmuttaqin's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=highcontrast" alt="abdullohmmuttaqin's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=highcontrast" height="195" alt="abdullohmmuttaqin's Top Languages" />
 </p>
 
 <h2>Projects & Explorations</h2>
@@ -28,9 +28,9 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 | Latest Explorations | Work In Progress (WIP) |
 | :-: | :----: |
-| <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=Avanti-Merch&theme=tokyonight" alt="Avanti-Merch repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=avanti-merch-dashboard&theme=tokyonight" alt="avanti-merch-dashboard repo"/> |
-| <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=knn-citra&theme=tokyonight" alt="knn-citra repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=tokyonight" alt="ShowroomApp2 repo"/> |
-| <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=pengolahan-citra-PTM-2-python&theme=tokyonight" alt="pengolahan-citra repo"/> | |
+| <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=Avanti-Merch&theme=highcontrast" alt="Avanti-Merch repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=avanti-merch-dashboard&theme=highcontrast" alt="avanti-merch-dashboard repo"/> |
+| <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=knn-citra&theme=highcontrast" alt="knn-citra repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=highcontrast" alt="ShowroomApp2 repo"/> |
+| <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=pengolahan-citra-PTM-2-python&theme=highcontrast" alt="pengolahan-citra repo"/> | |
 
 </div>
 
