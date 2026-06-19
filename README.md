@@ -8,14 +8,14 @@
 Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engineering and interested in software development, UI design, and building random projects. I'm a student at Nahdlatul Ulama Al Ghazali University.
 </div>
 
-<h1 align="left">Current Tech Stack</h1>
+<h2 align="left">Current Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,php,py,opencv,cpp,powershell,git,github,vscode,netlify,idea,arduino,wordpress,figma" />
   </a>
 </p>
 
-<h1>Current Stats</h1>
+<h2>Current Stats</h2>
 <p align ="center">
  <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=tokyonight" alt="abdullohmmuttaqin's GitHub Stats" />
  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=tokyonight" height="195" alt="abdullohmmuttaqin's GitHub Stats" />
@@ -34,4 +34,4 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 <h1>My Favorite Playlist while Coding</h1>
 
-[![Spotify Playlist](https://img.shields.io/badge/Open%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/0GK8t0rK03tYyPoueiTcfK?si=2980f297e53f47b5)
+[![Spotify Playlist](https://img.shields.io/badge/Open%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify)](https://open.spotify.com/playlist/3bs4CAzbp9Zp4p7AXVEVzm?si=f2c3f5e7e64045f6)
