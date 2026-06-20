@@ -30,7 +30,7 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 | :-: | :----: |
 | <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=Avanti-Merch&theme=highcontrast" alt="Avanti-Merch repo"/> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=avanti-merch-dashboard&theme=highcontrast" alt="avanti-merch-dashboard repo"/> |
 | <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=knn-citra&theme=highcontrast" alt="knn-citra repo"/> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=highcontrast" alt="ShowroomApp2 repo"/> |
-| <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=pengolahan-citra-PTM-2-python&theme=highcontrast" alt="pengolahan-citra repo"/> | |
+| <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=pengolahan-citra-PTM-2-python&theme=highcontrast" alt="pengolahan-citra repo"/> | <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullohmmuttaqin&repo=toko-sarung-app&theme=highcontrast" alt="toko-sarung-app repo"/> |
 
 </div>
 
