@@ -17,10 +17,15 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
   </a>
 </p>
 
-<h2>Current Stats</h2>
+<h2>Current Tech Stack</h2>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=highcontrast&cache_seconds=1800" alt="abdullohmmuttaqin's GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=highcontrast&cache_seconds=1800" height="195" alt="abdullohmmuttaqin's Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,cpp" alt="Languages" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,opencv,arduino,sqlite" alt="Frameworks and DB" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,powershell,figma,git,github,maven,netlify,wordpress" alt="Tools and Platforms" />
+  </a>
 </p>
 
 <h2>Projects & Explorations</h2>
