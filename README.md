@@ -5,7 +5,7 @@
 </a>
 
 <div style="text-align:justify;">
-Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engineering and interested in software development, UI design, and building random projects. I'm a student at Nahdlatul Ulama Al Ghazali University.
+Hey! I'm <b>Abdullah Muhammad Muttaqim</b>. Currently studying Informatics Engineering and interested in software development, UI design, and building random projects. I'm a student at Nahdlatul Ulama Al Ghazali University.
 </div>
 
 <br>
