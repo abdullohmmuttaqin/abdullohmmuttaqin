@@ -34,9 +34,11 @@ Hey! I'm <b>Abdulloh Muhammad Muttaqin</b>. Currently studying Informatics Engin
 
 </div>
 
-<h2>My Favorite Playlist while Coding</h2>
+<h2 align="center">My Favorite Playlist while Coding</h2>
 <p align="center">
-  <a href="https://open.spotify.com/playlist/3bs4CAzbp9Zp4p7AXVEVzm?si=0176631c373c4d3e" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Playlist-Spotify-1DB954?style=for-the-badge&logo=spotify" alt="Spotify Playlist" />
+  <a href="SALIN_LINK_SHARE_PLAYLIST_SPOTIFY_MU_DISINI" target="_blank">
+    <img src="https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?q=80&w=600&auto=format&fit=crop" alt="Coding Playlist Cover" width="350" style="border-radius: 10px;" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge" />
   </a>
 </p>
