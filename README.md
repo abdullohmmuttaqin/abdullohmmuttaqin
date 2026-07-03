@@ -13,7 +13,7 @@ Hey! I'm <b>Abdullah Muhammad Muttaqim</b>. Currently studying Informatics Engin
 <h2>Current Tech Stack</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,cpp, java" alt="Languages" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,py,cpp,java" alt="Languages" />
     <br><br>
     <img src="https://skillicons.dev/icons?i=nodejs,opencv,arduino,sqlite" alt="Frameworks and DB" />
     <br><br>
