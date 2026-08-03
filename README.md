@@ -40,7 +40,7 @@ Hey! I'm <b>Abdullah Muhammad Muttaqim</b>. Currently studying Informatics Engin
 | Latest Explorations | Work In Progress (WIP) |
 | :-: | :----: |
 | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=Avanti-Merch&theme=highcontrast&cache_seconds=1800" alt="Avanti-Merch repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=api-anti-mangkrak&theme=highcontrast&cache_seconds=1800" alt="api-anti-mangkrak repo"/> |
-| <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=knn-citra&theme=highcontrast&cache_seconds=1800" alt="knn-citra repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=highcontrast&cache_seconds=1800" alt="ShowroomApp2 repo"/> |
+| <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=knn-citra&theme=highcontrast&cache_seconds=1800" alt="knn-citra repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=short-semester-classes&theme=highcontrast&cache_seconds=1800" alt="short-semester-classes repo"/> |
 | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=highcontrast&cache_seconds=1800" alt="ShowroomApp2 repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=toko-sarung-app&theme=highcontrast&cache_seconds=1800" alt="toko-sarung-app repo"/> |
 
 </div>
