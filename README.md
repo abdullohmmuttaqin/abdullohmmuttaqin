@@ -15,7 +15,7 @@ Hey! I'm <b>Abdullah Muhammad Muttaqim</b>. Currently studying Informatics Engin
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,py,cpp,java" alt="Languages" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,opencv,arduino,sqlite" alt="Frameworks and DB" />
+    <img src="https://skillicons.dev/icons?i=nodejs,react,opencv,arduino,sqlite,mongodb,supabase" alt="Frameworks and DB" />
     <br><br>
     <img src="https://skillicons.dev/icons?i=vscode,idea,powershell,figma,git,github,maven,netlify,wordpress" alt="Tools and Platforms" />
   </a>
@@ -24,11 +24,11 @@ Hey! I'm <b>Abdullah Muhammad Muttaqim</b>. Currently studying Informatics Engin
 <h2>Current Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=abdullohmmuttaqin&show_icons=true&theme=highcontrast&cache_seconds=1800" alt="abdullohmmuttaqin's GitHub Stats" />
-  </p>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=abdullohmmuttaqin&theme=highcontrast" alt="GitHub Streak" />
-  </p>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abdullohmmuttaqin&show_icons=true&theme=highcontrast&cache_seconds=1800" height="195" alt="abdullohmmuttaqin's Top Languages" />
