@@ -39,7 +39,7 @@ Hey! I'm <b>Abdullah Muhammad Muttaqim</b>. Currently studying Informatics Engin
 
 | Latest Explorations | Work In Progress (WIP) |
 | :-: | :----: |
-| <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=Avanti-Merch&theme=highcontrast&cache_seconds=1800" alt="Avanti-Merch repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=avanti-merch-dashboard&theme=highcontrast&cache_seconds=1800" alt="avanti-merch-dashboard repo"/> |
+| <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=Avanti-Merch&theme=highcontrast&cache_seconds=1800" alt="Avanti-Merch repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=api-anti-mangkrakd&theme=highcontrast&cache_seconds=1800" alt="api-anti-mangkrak repo"/> |
 | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=knn-citra&theme=highcontrast&cache_seconds=1800" alt="knn-citra repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=highcontrast&cache_seconds=1800" alt="ShowroomApp2 repo"/> |
 | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=pengolahan-citra-PTM-2-python&theme=highcontrast&cache_seconds=1800" alt="pengolahan-citra repo"/> | <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=toko-sarung-app&theme=highcontrast&cache_seconds=1800" alt="toko-sarung-app repo"/> |
 
