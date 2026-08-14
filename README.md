@@ -45,7 +45,7 @@ Hey! I'm <b>Abdullah Muhammad Muttaqim</b>. Currently studying Informatics Engin
 
 </div>
 
-<h2 align="center">My Favorite Playlist while Coding</h2>
+<h2>My Favorite Playlist while Coding</h2>
 <p align="center">
   <a href="https://open.spotify.com/playlist/73GkAU8LMEJYP9Tobez91k?si=d3e389453687421e" target="_blank">
     <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8473f2bae1c25c0ddf8930d3bb" alt="Lost Playlist Cover" width="300" style="border-radius: 10px;" />
