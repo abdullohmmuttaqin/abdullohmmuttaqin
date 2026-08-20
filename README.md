@@ -76,5 +76,5 @@
 
 <!-- Footer Banner - Lyric Motto with Song Title & Band -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=140&section=footer&text=What%20you%20see%20is%20what%20you%20got%2C%20What%20you%20learn%20is%20what%20you%20gonna%20do&fontSize=18&fontAlignY=38&desc=%F0%9F%8E%B6%20Time%20To%20Learning%20-%20Scared%20Of%20Bums&descAlignY=68&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=150&section=footer&text=What%20you%20see%20is%20what%20you%20got%2C%20What%20you%20learn%20is%20what%20you%20gonna%20do&fontSize=18&fontAlignY=38&desc=%F0%9F%8E%B6%20Time%20To%20Learning%20-%20Scared%20Of%20Bums&descAlignY=68&descAlign=50&animation=twinkling" width="100%" />
 </div>
