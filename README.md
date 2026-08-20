@@ -18,7 +18,7 @@
 
 <br>
 
-## 🚀 About Me
+# 🚀 About Me
 
 > **Student at Nahdlatul Ulama Al Ghazali University** 🎓  
 > Currently studying **Informatics Engineering**. Passionate about software development, UI design, and building random creative projects.
