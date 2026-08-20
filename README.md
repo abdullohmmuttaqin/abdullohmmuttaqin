@@ -7,10 +7,10 @@
   <a href="https://github.com/abdullohmmuttaqin">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com">
+  <a href="https://www.linkedin.com/in/abdullohmmuttaqin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emailmu@example.com">
+  <a href="mailto:abdullah.22eo10034@mhs.unugha.ac.id">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -72,4 +72,9 @@
   <img src="https://img.shields.io/badge/Listen%20on-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 </a>
 
+</div>
+
+<!-- Footer Banner - Lyric Motto with Song Title & Band -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=140&section=footer&text=What%20you%20see%20is%20what%20you%20got%2C%20What%20you%20learn%20is%20what%20you%20gonna%20do&fontSize=18&fontAlignY=38&desc=%F0%9F%8E%B6%20Time%20To%20Learning%20-%20Scared%20Of%20Bums&descAlignY=68&descAlign=50&animation=twinkling" width="100%" />
 </div>
