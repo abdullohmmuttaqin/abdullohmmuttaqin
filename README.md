@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner & Typing Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=200&section=header&text=Abdullah%20Muhammad%20Muttaqim&fontSize=42&fontAlignY=38&animation=twinkling&desc=👨🏻‍🎓Informatics%20Engineering%20Student%20%7C%20👨🏻‍💻Software%20Dev&descAlignY=62&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=200&section=header&text=Abdullah%20Muhammad%20Muttaqim&fontSize=42&fontAlignY=38&animation=twinkling&desc=👨🏻‍🎓Informatics%20Student%20%7C%20👨🏻‍💻Software%20Dev&descAlignY=62&descAlign=50" width="100%" />
 
   <!-- Social Badges / Links -->
   <a href="https://github.com/abdullohmmuttaqin">
