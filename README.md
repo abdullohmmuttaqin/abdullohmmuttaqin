@@ -28,7 +28,7 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,py,cpp,java,nodejs,react,express,supabase,mongodb,sqlite,opencv,arduino,vscode,idea,webstorm,figma,git,github,maven,netlify,wordpress,powershell&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,php,py,cpp,java,nodejs,npm,react,express,supabase,mongodb,sqlite,opencv,arduino,vscode,idea,webstorm,figma,git,github,maven,netlify,wordpress,powershell&perline=10" alt="Tech Stack" />
 </p>
 
 ---
