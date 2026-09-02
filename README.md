@@ -55,9 +55,7 @@
 
 | 🚀 Latest Explorations | 🛠️ Work In Progress (WIP) |
 | :---: | :---: |
-| <a href="https://github.com/abdullohmmuttaqin/ShowroomApp2"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=highcontrast&cache_seconds=1800" /></a> | <a href="https://github.com/abdullohmmuttaqin/api-anti-mangkrak"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=api-anti-mangkrak&theme=highcontrast&cache_seconds=1800" /></a> |
-| <a href="https://github.com/abdullohmmuttaqin/toko-sarung-app"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=toko-sarung-app&theme=highcontrast&cache_seconds=1800" /></a> | <a href="https://github.com/abdullohmmuttaqin/short-semester-classes"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=short-semester-classes&theme=highcontrast&cache_seconds=1800" /></a> |
-| <a href="https://github.com/abdullohmmuttaqin/avanti-merch-dashboard"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=avanti-merch-dashboard&theme=highcontrast&cache_seconds=1800" /></a> | <a href="https://github.com/abdullohmmuttaqin/bouquet-app"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=bouquet-app&theme=highcontrast&cache_seconds=1800" /></a> |
+| <a href="https://github.com/abdullohmmuttaqin/ShowroomApp2"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=ShowroomApp2&theme=highcontrast&cache_seconds=1800" /></a> | <a href="https://github.com/abdullohmmuttaqin/artomoro-craft"><img src="https://github-readme-stats-fast.vercel.app/api/pin?username=abdullohmmuttaqin&repo=artomoro-craft&theme=highcontrast&cache_seconds=1800" /></a> |
 
 </div>
 
